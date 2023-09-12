@@ -34,15 +34,7 @@
 - n_component를 2로 설정
 
 ### 2. 사용 변수 추출
-  -'air_inflow'
-  -'air_end_temp',
-  -'out_pressure',
-  -'motor_current',
-  -'motor_rpm',
-  -'motor_temp',
-  -'motor_vibe',
-  -'type',
-  -'HP'
+'air_inflow', 'air_end_temp', 'out_pressure', 'motor_current', 'motor_rpm', 'motor_temp', 'motor_vibe', 'type', 'HP'
 
 ### 3. 비지도 학습
 ***평균 앙상블(Average Ensemble)***
